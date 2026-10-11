@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.pt
+*.onnx
+*.weights
+.venv/
+venv/
+node_modules/
+dist/
+.env
+.env.local
+.env.*
+!.env.example
